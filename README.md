@@ -1,4 +1,4 @@
-# flutter_user_app
+# Flutter user app
 
 A simple Flutter project.
 
